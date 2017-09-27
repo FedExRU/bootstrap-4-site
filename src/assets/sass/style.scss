@@ -1,0 +1,30 @@
+@import "variables";
+@import "../../../bower_components/bootstrap/scss/bootstrap-reboot"; /*css стили*/
+@import "../../../bower_components/bootstrap/scss/utilities"; /*css утилиты*/
+@import "../../../bower_components/bootstrap/scss/grid"; /*сетка*/
+@import "../../../bower_components/bootstrap/scss/buttons"; /*кнопки*/
+@import "../../../bower_components/bootstrap/scss/alert"; /*предупреждения*/
+@import "../../../bower_components/bootstrap/scss/badge"; /*бейджики*/
+@import "../../../bower_components/bootstrap/scss/tooltip"; /*всплывающие подсказки*/
+@import "../../../bower_components/bootstrap/scss/transitions"; /*плавность*/
+@import "../../../bower_components/bootstrap/scss/popover"; /*всплыващие окна*/
+@import "../../../bower_components/bootstrap/scss/navbar"; /*навигация*/
+@import "../../../bower_components/bootstrap/scss/forms"; /*формы*/
+@import "../../../bower_components/bootstrap/scss/type"; /*типография*/
+@import "../../../bower_components/bootstrap/scss/card"; /*карточки*/
+@import "../../../bower_components/bootstrap/scss/pagination"; /*пагинация*/
+@import "../../../bower_components/bootstrap/scss/list-group"; /*карточки*/
+@import "../../../bower_components/bootstrap/scss/images"; /*адаптивность картинок*/
+@import "../../../bower_components/bootstrap/scss/nav"; /*адаптивность картинок*/
+@import "bloсks/header"; /*самописный заголовок*/
+@import "bloсks/main"; /*самописный main*/
+@import "bloсks/block"; /*самописный block*/
+@import "bloсks/navbar"; /*самописный navbar*/
+@import "bloсks/footer"; /*самописный footer*/
+@import "bloсks/copyrigth"; /*самописный copyrigth*/
+@import "bloсks/buttons"; /*самописный copyrigth*/
+
+.test{
+	height: 20px;
+	background-color: $my_blue;
+}
